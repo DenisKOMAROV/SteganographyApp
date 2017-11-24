@@ -1,0 +1,27 @@
+c:\users\denis\documents\visual studio 2015\Projects\SteganographyApp\SteganographyApp\bin\Debug\SteganographyApp.exe.config
+c:\users\denis\documents\visual studio 2015\Projects\SteganographyApp\SteganographyApp\bin\Debug\SteganographyApp.exe
+c:\users\denis\documents\visual studio 2015\Projects\SteganographyApp\SteganographyApp\bin\Debug\SteganographyApp.pdb
+c:\users\denis\documents\visual studio 2015\Projects\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.csprojResolveAssemblyReference.cache
+c:\users\denis\documents\visual studio 2015\Projects\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.SteganographyApp.resources
+c:\users\denis\documents\visual studio 2015\Projects\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.Properties.Resources.resources
+c:\users\denis\documents\visual studio 2015\Projects\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.csproj.GenerateResource.Cache
+c:\users\denis\documents\visual studio 2015\Projects\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.exe
+c:\users\denis\documents\visual studio 2015\Projects\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.pdb
+C:\Users\Denis\Desktop\курсовая\SteganographyApp\SteganographyApp\bin\Debug\SteganographyApp.exe.config
+C:\Users\Denis\Desktop\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.exe
+C:\Users\Denis\Desktop\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.pdb
+C:\Users\Denis\Desktop\курсовая\SteganographyApp\SteganographyApp\bin\Debug\SteganographyApp.exe
+C:\Users\Denis\Desktop\курсовая\SteganographyApp\SteganographyApp\bin\Debug\SteganographyApp.pdb
+C:\Users\Denis\Desktop\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Desktop\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.SteganographyApp.resources
+C:\Users\Denis\Desktop\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.Properties.Resources.resources
+C:\Users\Denis\Desktop\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.csproj.GenerateResource.Cache
+D:\Downloads\Курсовая работа Комаров Денис\курсовая\SteganographyApp\SteganographyApp\bin\Debug\SteganographyApp.exe.config
+D:\Downloads\Курсовая работа Комаров Денис\курсовая\SteganographyApp\SteganographyApp\bin\Debug\SteganographyApp.exe
+D:\Downloads\Курсовая работа Комаров Денис\курсовая\SteganographyApp\SteganographyApp\bin\Debug\SteganographyApp.pdb
+D:\Downloads\Курсовая работа Комаров Денис\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.csprojResolveAssemblyReference.cache
+D:\Downloads\Курсовая работа Комаров Денис\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.SteganographyApp.resources
+D:\Downloads\Курсовая работа Комаров Денис\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.Properties.Resources.resources
+D:\Downloads\Курсовая работа Комаров Денис\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.csproj.GenerateResource.Cache
+D:\Downloads\Курсовая работа Комаров Денис\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.exe
+D:\Downloads\Курсовая работа Комаров Денис\курсовая\SteganographyApp\SteganographyApp\obj\Debug\SteganographyApp.pdb
